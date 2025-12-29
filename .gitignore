@@ -1,3 +1,6 @@
+# 제외 시키기
+02.rag_embedding_metadata2.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
